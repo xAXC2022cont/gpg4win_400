@@ -1,0 +1,15 @@
+pub   rsa3072 2017-03-17 [SC] [expires: 2027-03-15]
+      5B80 C575 4298 F0CB 55D8  ED6A BCEF 7E29 4B09 2E28
+uid   Andre Heinecke (Release Signing Key)
+
+pub   ed25519 2020-08-24 [SC] [expires: 2030-06-30]
+      6DAA 6E64 A76D 2840 571B  4902 5288 97B8 2640 3ADA
+uid   Werner Koch (dist signing 2020)
+
+pub   ed25519 2021-05-19 [SC] [expires: 2027-04-04]
+      AC8E 115B F73E 2D8D 47FA  9908 E98E 9B2D 19C6 C8BD
+uid   Niibe Yutaka (GnuPG Release Key)
+
+pub   brainpoolP256r1 2021-10-15 [SC] [expires: 2029-12-31]
+      02F3 8DFF 731F F97C B039  A1DA 549E 695E 905B A208
+uid   GnuPG.com (Release Signing Key 2021)
