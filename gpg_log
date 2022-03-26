@@ -1,0 +1,12 @@
+[liveuser@localhost Downloads]$ gpg --keyserver hkps://keyserver.ubuntu.com --recv-keys 4B092E28
+gpg: requesting key 4B092E28 from hkps server keyserver.ubuntu.com
+gpg: key 4B092E28: public key "Andre Heinecke (Release Signing Key)" imported
+gpg: no ultimately trusted keys found
+gpg: Total number processed: 1
+gpg:               imported: 1  (RSA: 1)
+[liveuser@localhost Downloads]$ gpg --verify gpg4win-4.0.0.exe.sig gpg4win-4.0.0.exe
+gpg: Signature made Tue 21 Dec 2021 11:40:51 AM UTC using RSA key ID 4B092E28
+gpg: Good signature from "Andre Heinecke (Release Signing Key)"
+gpg: WARNING: This key is not certified with a trusted signature!
+gpg:          There is no indication that the signature belongs to the owner.
+Primary key fingerprint: 5B80 C575 4298 F0CB 55D8  ED6A BCEF 7E29 4B09 2E28
