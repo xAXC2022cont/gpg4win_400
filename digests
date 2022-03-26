@@ -2,3 +2,8 @@ SHA256: f83be101c5e9c23740d6fde55fd8fefebf4fafb7badcb3756d1f574b5ad37507
 
 [liveuser@localhost Downloads]$ sha256sum gpg4win-4.0.0.exe.sig 
 cbbd37116bba322158f3b72782e7f8ae692b612398ff006861dd66b9ca06f788  gpg4win-4.0.0.exe.sig
+
+[liveuser@localhost Downloads]$ sha256sum signature-key.pdf 
+d23a5a53475daf80c1694dae98e93c6179c8188725b447caa644765eee1faf63  signature-key.pdf
+[liveuser@localhost Downloads]$ sha256sum signature_key.asc 
+1d12afc4a2516573f661809ba68b8d955016db1101143fe5213ab5aafabd05a4  signature_key.asc
